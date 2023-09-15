@@ -1,0 +1,14 @@
+C:\Users\siddh\source\repos\Simple\Simple\bin\Debug\netcoreapp3.1\Simple.exe
+C:\Users\siddh\source\repos\Simple\Simple\bin\Debug\netcoreapp3.1\Simple.deps.json
+C:\Users\siddh\source\repos\Simple\Simple\bin\Debug\netcoreapp3.1\Simple.runtimeconfig.json
+C:\Users\siddh\source\repos\Simple\Simple\bin\Debug\netcoreapp3.1\Simple.runtimeconfig.dev.json
+C:\Users\siddh\source\repos\Simple\Simple\bin\Debug\netcoreapp3.1\Simple.dll
+C:\Users\siddh\source\repos\Simple\Simple\bin\Debug\netcoreapp3.1\Simple.pdb
+C:\Users\siddh\source\repos\Simple\Simple\obj\Debug\netcoreapp3.1\Simple.csproj.AssemblyReference.cache
+C:\Users\siddh\source\repos\Simple\Simple\obj\Debug\netcoreapp3.1\Simple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddh\source\repos\Simple\Simple\obj\Debug\netcoreapp3.1\Simple.AssemblyInfoInputs.cache
+C:\Users\siddh\source\repos\Simple\Simple\obj\Debug\netcoreapp3.1\Simple.AssemblyInfo.cs
+C:\Users\siddh\source\repos\Simple\Simple\obj\Debug\netcoreapp3.1\Simple.csproj.CoreCompileInputs.cache
+C:\Users\siddh\source\repos\Simple\Simple\obj\Debug\netcoreapp3.1\Simple.dll
+C:\Users\siddh\source\repos\Simple\Simple\obj\Debug\netcoreapp3.1\Simple.pdb
+C:\Users\siddh\source\repos\Simple\Simple\obj\Debug\netcoreapp3.1\Simple.genruntimeconfig.cache

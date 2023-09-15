@@ -1,0 +1,13 @@
+C:\Users\siddh\source\repos\SignUpWebApi\SignUp.Data\bin\Debug\netcoreapp3.1\SignUp.Data.deps.json
+C:\Users\siddh\source\repos\SignUpWebApi\SignUp.Data\bin\Debug\netcoreapp3.1\SignUp.Data.runtimeconfig.json
+C:\Users\siddh\source\repos\SignUpWebApi\SignUp.Data\bin\Debug\netcoreapp3.1\SignUp.Data.runtimeconfig.dev.json
+C:\Users\siddh\source\repos\SignUpWebApi\SignUp.Data\bin\Debug\netcoreapp3.1\SignUp.Data.dll
+C:\Users\siddh\source\repos\SignUpWebApi\SignUp.Data\bin\Debug\netcoreapp3.1\SignUp.Data.pdb
+C:\Users\siddh\source\repos\SignUpWebApi\SignUp.Data\obj\Debug\netcoreapp3.1\SignUp.Data.csproj.AssemblyReference.cache
+C:\Users\siddh\source\repos\SignUpWebApi\SignUp.Data\obj\Debug\netcoreapp3.1\SignUp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddh\source\repos\SignUpWebApi\SignUp.Data\obj\Debug\netcoreapp3.1\SignUp.Data.AssemblyInfoInputs.cache
+C:\Users\siddh\source\repos\SignUpWebApi\SignUp.Data\obj\Debug\netcoreapp3.1\SignUp.Data.AssemblyInfo.cs
+C:\Users\siddh\source\repos\SignUpWebApi\SignUp.Data\obj\Debug\netcoreapp3.1\SignUp.Data.csproj.CoreCompileInputs.cache
+C:\Users\siddh\source\repos\SignUpWebApi\SignUp.Data\obj\Debug\netcoreapp3.1\SignUp.Data.dll
+C:\Users\siddh\source\repos\SignUpWebApi\SignUp.Data\obj\Debug\netcoreapp3.1\SignUp.Data.pdb
+C:\Users\siddh\source\repos\SignUpWebApi\SignUp.Data\obj\Debug\netcoreapp3.1\SignUp.Data.genruntimeconfig.cache

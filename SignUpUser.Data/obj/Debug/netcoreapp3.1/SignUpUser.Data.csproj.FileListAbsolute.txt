@@ -1,0 +1,12 @@
+C:\Users\siddh\source\repos\SignUpUser.Data\bin\Debug\netcoreapp3.1\SignUpUser.Data.deps.json
+C:\Users\siddh\source\repos\SignUpUser.Data\bin\Debug\netcoreapp3.1\SignUpUser.Data.runtimeconfig.json
+C:\Users\siddh\source\repos\SignUpUser.Data\bin\Debug\netcoreapp3.1\SignUpUser.Data.runtimeconfig.dev.json
+C:\Users\siddh\source\repos\SignUpUser.Data\bin\Debug\netcoreapp3.1\SignUpUser.Data.dll
+C:\Users\siddh\source\repos\SignUpUser.Data\bin\Debug\netcoreapp3.1\SignUpUser.Data.pdb
+C:\Users\siddh\source\repos\SignUpUser.Data\obj\Debug\netcoreapp3.1\SignUpUser.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddh\source\repos\SignUpUser.Data\obj\Debug\netcoreapp3.1\SignUpUser.Data.AssemblyInfoInputs.cache
+C:\Users\siddh\source\repos\SignUpUser.Data\obj\Debug\netcoreapp3.1\SignUpUser.Data.AssemblyInfo.cs
+C:\Users\siddh\source\repos\SignUpUser.Data\obj\Debug\netcoreapp3.1\SignUpUser.Data.csproj.CoreCompileInputs.cache
+C:\Users\siddh\source\repos\SignUpUser.Data\obj\Debug\netcoreapp3.1\SignUpUser.Data.dll
+C:\Users\siddh\source\repos\SignUpUser.Data\obj\Debug\netcoreapp3.1\SignUpUser.Data.pdb
+C:\Users\siddh\source\repos\SignUpUser.Data\obj\Debug\netcoreapp3.1\SignUpUser.Data.genruntimeconfig.cache

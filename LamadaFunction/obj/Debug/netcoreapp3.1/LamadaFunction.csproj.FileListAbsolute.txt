@@ -1,0 +1,14 @@
+C:\Users\siddh\source\repos\LamadaFunction\bin\Debug\netcoreapp3.1\LamadaFunction.exe
+C:\Users\siddh\source\repos\LamadaFunction\bin\Debug\netcoreapp3.1\LamadaFunction.deps.json
+C:\Users\siddh\source\repos\LamadaFunction\bin\Debug\netcoreapp3.1\LamadaFunction.runtimeconfig.json
+C:\Users\siddh\source\repos\LamadaFunction\bin\Debug\netcoreapp3.1\LamadaFunction.runtimeconfig.dev.json
+C:\Users\siddh\source\repos\LamadaFunction\bin\Debug\netcoreapp3.1\LamadaFunction.dll
+C:\Users\siddh\source\repos\LamadaFunction\bin\Debug\netcoreapp3.1\LamadaFunction.pdb
+C:\Users\siddh\source\repos\LamadaFunction\obj\Debug\netcoreapp3.1\LamadaFunction.csproj.AssemblyReference.cache
+C:\Users\siddh\source\repos\LamadaFunction\obj\Debug\netcoreapp3.1\LamadaFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddh\source\repos\LamadaFunction\obj\Debug\netcoreapp3.1\LamadaFunction.AssemblyInfoInputs.cache
+C:\Users\siddh\source\repos\LamadaFunction\obj\Debug\netcoreapp3.1\LamadaFunction.AssemblyInfo.cs
+C:\Users\siddh\source\repos\LamadaFunction\obj\Debug\netcoreapp3.1\LamadaFunction.csproj.CoreCompileInputs.cache
+C:\Users\siddh\source\repos\LamadaFunction\obj\Debug\netcoreapp3.1\LamadaFunction.dll
+C:\Users\siddh\source\repos\LamadaFunction\obj\Debug\netcoreapp3.1\LamadaFunction.pdb
+C:\Users\siddh\source\repos\LamadaFunction\obj\Debug\netcoreapp3.1\LamadaFunction.genruntimeconfig.cache

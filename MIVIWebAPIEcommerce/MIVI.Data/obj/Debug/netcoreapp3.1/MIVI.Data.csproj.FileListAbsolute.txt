@@ -1,0 +1,13 @@
+C:\Users\siddh\source\repos\MIVIWebAPIEcommerce\MIVI.Data\bin\Debug\netcoreapp3.1\MIVI.Data.deps.json
+C:\Users\siddh\source\repos\MIVIWebAPIEcommerce\MIVI.Data\bin\Debug\netcoreapp3.1\MIVI.Data.runtimeconfig.json
+C:\Users\siddh\source\repos\MIVIWebAPIEcommerce\MIVI.Data\bin\Debug\netcoreapp3.1\MIVI.Data.runtimeconfig.dev.json
+C:\Users\siddh\source\repos\MIVIWebAPIEcommerce\MIVI.Data\bin\Debug\netcoreapp3.1\MIVI.Data.dll
+C:\Users\siddh\source\repos\MIVIWebAPIEcommerce\MIVI.Data\bin\Debug\netcoreapp3.1\MIVI.Data.pdb
+C:\Users\siddh\source\repos\MIVIWebAPIEcommerce\MIVI.Data\obj\Debug\netcoreapp3.1\MIVI.Data.csproj.AssemblyReference.cache
+C:\Users\siddh\source\repos\MIVIWebAPIEcommerce\MIVI.Data\obj\Debug\netcoreapp3.1\MIVI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddh\source\repos\MIVIWebAPIEcommerce\MIVI.Data\obj\Debug\netcoreapp3.1\MIVI.Data.AssemblyInfoInputs.cache
+C:\Users\siddh\source\repos\MIVIWebAPIEcommerce\MIVI.Data\obj\Debug\netcoreapp3.1\MIVI.Data.AssemblyInfo.cs
+C:\Users\siddh\source\repos\MIVIWebAPIEcommerce\MIVI.Data\obj\Debug\netcoreapp3.1\MIVI.Data.csproj.CoreCompileInputs.cache
+C:\Users\siddh\source\repos\MIVIWebAPIEcommerce\MIVI.Data\obj\Debug\netcoreapp3.1\MIVI.Data.dll
+C:\Users\siddh\source\repos\MIVIWebAPIEcommerce\MIVI.Data\obj\Debug\netcoreapp3.1\MIVI.Data.pdb
+C:\Users\siddh\source\repos\MIVIWebAPIEcommerce\MIVI.Data\obj\Debug\netcoreapp3.1\MIVI.Data.genruntimeconfig.cache

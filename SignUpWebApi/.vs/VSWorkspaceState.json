@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SignUp.Data",
+    "\\SignUp.Data\\bin",
+    "\\SignUp.Data\\bin\\Debug",
+    "\\SignUp.Data\\bin\\Debug\\netcoreapp3.1",
+    "\\SignUp.Data\\obj",
+    "\\SignUp.Data\\obj\\Debug",
+    "\\SignUp.Data\\obj\\Debug\\netcoreapp3.1",
+    "\\SignUpWebApi\\bin",
+    "\\SignUpWebApi\\bin\\Debug",
+    "\\SignUpWebApi\\bin\\Debug\\netcoreapp3.1",
+    "\\SignUpWebApi\\obj"
+  ],
+  "SelectedNode": "\\SignUpWebApi",
+  "PreviewInSolutionExplorer": false
+}

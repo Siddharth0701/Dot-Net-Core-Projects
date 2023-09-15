@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignUPWebApiAngular", "SignUPWebApiAngular.csproj", "{EB855E19-B2E3-40D5-A092-E48DFC2DC501}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignUpUser.Data", "..\SignUpUser.Data\SignUpUser.Data.csproj", "{46A9F980-0646-4385-BE80-CD136FB8AFD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB855E19-B2E3-40D5-A092-E48DFC2DC501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB855E19-B2E3-40D5-A092-E48DFC2DC501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB855E19-B2E3-40D5-A092-E48DFC2DC501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB855E19-B2E3-40D5-A092-E48DFC2DC501}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46A9F980-0646-4385-BE80-CD136FB8AFD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46A9F980-0646-4385-BE80-CD136FB8AFD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46A9F980-0646-4385-BE80-CD136FB8AFD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46A9F980-0646-4385-BE80-CD136FB8AFD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39421D93-76A7-4962-A7C2-DFBB055A81EB}
+	EndGlobalSection
+EndGlobal

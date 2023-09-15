@@ -1,0 +1,13 @@
+C:\Users\siddh\source\repos\PropertyPractice\bin\Debug\netcoreapp3.1\PropertyPractice.exe
+C:\Users\siddh\source\repos\PropertyPractice\bin\Debug\netcoreapp3.1\PropertyPractice.deps.json
+C:\Users\siddh\source\repos\PropertyPractice\bin\Debug\netcoreapp3.1\PropertyPractice.runtimeconfig.json
+C:\Users\siddh\source\repos\PropertyPractice\bin\Debug\netcoreapp3.1\PropertyPractice.runtimeconfig.dev.json
+C:\Users\siddh\source\repos\PropertyPractice\bin\Debug\netcoreapp3.1\PropertyPractice.dll
+C:\Users\siddh\source\repos\PropertyPractice\bin\Debug\netcoreapp3.1\PropertyPractice.pdb
+C:\Users\siddh\source\repos\PropertyPractice\obj\Debug\netcoreapp3.1\PropertyPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddh\source\repos\PropertyPractice\obj\Debug\netcoreapp3.1\PropertyPractice.AssemblyInfoInputs.cache
+C:\Users\siddh\source\repos\PropertyPractice\obj\Debug\netcoreapp3.1\PropertyPractice.AssemblyInfo.cs
+C:\Users\siddh\source\repos\PropertyPractice\obj\Debug\netcoreapp3.1\PropertyPractice.csproj.CoreCompileInputs.cache
+C:\Users\siddh\source\repos\PropertyPractice\obj\Debug\netcoreapp3.1\PropertyPractice.dll
+C:\Users\siddh\source\repos\PropertyPractice\obj\Debug\netcoreapp3.1\PropertyPractice.pdb
+C:\Users\siddh\source\repos\PropertyPractice\obj\Debug\netcoreapp3.1\PropertyPractice.genruntimeconfig.cache
